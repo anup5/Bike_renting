@@ -1,4 +1,4 @@
-# sharing-github
+# Bike Renting Project
 
 Project Name - Bike Renting	
 Data Set -  1) day.csv
