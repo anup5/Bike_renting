@@ -3,7 +3,7 @@
 Project Name - Bike Renting
 Data Set -  1) day.csv
 Problem statement -
-The objective of this Case is to Predication of bike rental count on daily based on the environmental and seasonal settings.
+The objective of this Case is to predict the bike rental count on daily based on the environmental and seasonal settings.
 
 The details of data attributes in the dataset are as follows -
 instant: Record index
